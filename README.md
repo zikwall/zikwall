@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=zikwall&show_icons=true&theme=tokyonight&line_height=27">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=zikwall&show_icons=true&line_height=27">
 
 ### Hi there 👋  I'm Andrey
 
