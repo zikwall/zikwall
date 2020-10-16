@@ -7,7 +7,9 @@
 👨‍💻 Backend developer with frontend background. You can find some of my projects here on my GitHub mainly in Golang, PHP, JavasScript, React, ReactNative, Flutter/Dart with UI projects, packages, ...
 
 🌱 I am currently studying Dart/Flutter & Rust
+
 👯 I like to develop web services using PHP, Go, React/Next
+
 🤔 I also love writing mobile apps with ReactNative, Flutter
 
 **Languages and Tools:**  
