@@ -4,9 +4,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zikwall)
 
-- :nut_and_bolt: Pure PHP/Yii2, Go, Pure JS/React/Next dev
-- :iphone: Like Dart/Flutter, ReactNative
-- :hourglass_flowing_sand: Like also Rust
+- Pure PHP/Yii2, Go, Pure JS/React/Next dev
+- Like Dart/Flutter, ReactNative
+- Like also Rust
 
 👨‍💻 Backend developer with frontend background. I lead a community of [Go](https://github.com/goavengers) <code><img height="20" src="https://avatars3.githubusercontent.com/u/64774752?s=200&v=4"></code>  evangelists. You can find some of my projects here on my GitHub mainly in Golang, PHP, JavasScript, React, ReactNative, Flutter/Dart with UI projects, packages, ...
 
