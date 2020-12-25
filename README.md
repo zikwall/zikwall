@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Clickhouse-informational?style=flat&logo=Clickhouse&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-Kafka-informational?style=flat&logo=Kafka&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Apache%20Kafka-informational?style=flat&logo=Apache%20Kafka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-InfluxDB-informational?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
