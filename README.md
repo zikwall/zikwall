@@ -26,11 +26,15 @@
 ![](https://img.shields.io/badge/DevOps-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevOps-Drone-informational?style=flat&logo=Drone&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevOps-Prometheus-informational?style=flat&logo=Prometheus&logoColor=white&color=2bbc8a)
+
 <br>
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Clickhouse-informational?style=flat&logo=Clickhouse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Kafka-informational?style=flat&logo=Kafka&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-InfluxDB-informational?style=flat&logo=InfluxDB&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
