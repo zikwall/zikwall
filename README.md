@@ -34,5 +34,8 @@
 <br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+<br>
+![](https://img.shields.io/badge/Market-Google%20Play-informational?style=flat&logo=Google%20Play&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Market-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zikwall)
