@@ -13,7 +13,7 @@
 
 ## Languages, technologies & tools
 ![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lang-JS-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Dart-informational?style=flat&logo=Dart&logoColor=white&color=2bbc8a)
 <br>
