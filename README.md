@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Drone-informational?style=flat&logo=Drone&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Prometheus-informational?style=flat&logo=Prometheus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevOps-Elastic%20Stack-informational?style=flat&logo=Elastic%20Stack&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
@@ -40,5 +41,6 @@
 <br>
 ![](https://img.shields.io/badge/Apps-Google%20Play-informational?style=flat&logo=Google%20Play&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apps-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Apps-Google%20Ads-informational?style=flat&logo=Google%20Ads&logoColor=white&color=2bbc8a)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zikwall)
