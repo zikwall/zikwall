@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-ReactNative-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Yii2-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
@@ -29,6 +30,7 @@
 ![](https://img.shields.io/badge/DevOps-Drone-informational?style=flat&logo=Drone&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Prometheus-informational?style=flat&logo=Prometheus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Elastic%20Stack-informational?style=flat&logo=Elastic%20Stack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevOps-TeamCity-informational?style=flat&logo=TeamCity&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
