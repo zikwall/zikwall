@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DevOps-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevOps-Bash-informational?style=flat&logo=GNU%20bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Drone-informational?style=flat&logo=Drone&logoColor=white&color=2bbc8a)
