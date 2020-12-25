@@ -44,5 +44,5 @@
 ![](https://img.shields.io/badge/Apps-Google%20Play-informational?style=flat&logo=Google%20Play&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apps-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apps-Google%20Ads-informational?style=flat&logo=Google%20Ads&logoColor=white&color=2bbc8a)
-
+<hr>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zikwall)
