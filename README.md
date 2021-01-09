@@ -7,7 +7,7 @@
 
 - I’m currently working with PHP, Go, JS and React.js
 - Also working with Dart/Flutter and ReactNative
-- I’m currently learning Rust
+- I’m currently learning Rust and Svelte
 
 👨‍💻 Backend developer with frontend background. I lead a community of [Go](https://github.com/goavengers) <code><img height="20" src="https://avatars3.githubusercontent.com/u/64774752?s=200&v=4"></code>  evangelists. You can find some of my projects here on my GitHub mainly in Golang, PHP, JavasScript, React, ReactNative, Flutter/Dart with UI projects, packages, ...
 
