@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-- I’m currently working with PHP, Go, JS and React.js
+- I’m currently working with Go, PHP, JS and React.js
 - Also working with Dart/Flutter and ReactNative
 - I’m currently learning Rust and Svelte
 
