@@ -2,9 +2,6 @@
 
 # Hi there 👋
 
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zikwall)
-[![Private Email](https://img.shields.io/badge/andrey.kapitonov.96@gmail.com-D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:andrey.kapitonov.96@gmail.com)
-
 - I’m currently working with PHP, Go, JS and React.js
 - Also working with Dart/Flutter and ReactNative
 - I’m currently learning Rust and Svelte
