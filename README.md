@@ -5,7 +5,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=zikwall&show_icons=true&line_height=27">
 
 - В данный момент работаю с Go, изредка PHP+JavaScript 
-- Также активно бзаю React.js, Next.js, Dart/Flutter и ReactNative (уже не совсем)
+- Также активно юзаю React.js, Next.js, Dart/Flutter и ReactNative (уже не совсем)
 - Безумное желание выучить Rust
 
 ## Languages, technologies & tools
