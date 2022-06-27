@@ -1,8 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=zikwall&show_icons=true&line_height=27">
-
 ## Hi there 👋
 
 > Golang Developer, который не брезгует заниматься фронтом, мастер по написанию бесполезного кода, батя в @goavengers, компилирую PHP в сознании, бакалавр экономист, магистр информатик, занимаюсь тяжелой атлетикой.
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=zikwall&show_icons=true&line_height=27">
 
 - В данный момент работаю с Go, изредка PHP+JavaScript 
 - Также активно бзаю React.js, Next.js, Dart/Flutter и ReactNative (уже не совсем)
