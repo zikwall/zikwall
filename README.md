@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-> Golang Developer, который не брезгует заниматься фронтом, мастер по написанию бесполезного кода, батя в @goavengers, компилирую PHP в сознании, бакалавр экономист, магистр информатик, занимаюсь тяжелой атлетикой.
+> Golang Developer, who does not disdain to engage in the front, a master at writing useless code, dad in @goavengers, compiling PHP in consciousness, Bachelor of Economics, Master of Computer Science, doing weightlifting.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=zikwall&show_icons=true&line_height=27">
 
-- В данный момент работаю с Go, изредка PHP+JavaScript 
-- Также активно юзаю React.js, Next.js, Dart/Flutter и ReactNative (уже не совсем)
-- Безумное желание выучить Rust
+- Currently working with Go, изредка PHP+JavaScript 
+- I am also actively using React.js, Next.js, Dart/Flutter and ReactNative (уже не совсем)
+- There is an insane desire to learnRust
 
 ## Languages, technologies & tools
 ![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
