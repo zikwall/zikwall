@@ -1,12 +1,12 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=zikwall&show_icons=true&line_height=27">
 
-# Hi there 👋
+## Hi there 👋
 
-- I’m currently working with Go, PHP, JavaScript
-- Also working with React.js, Next.js, Dart/Flutter and ReactNative
-- I’m currently learning Rust and Svelte
+> Golang Developer, который не брезгует заниматься фронтом, мастер по написанию бесполезного кода, батя в @goavengers, компилирую PHP в сознании, бакалавр экономист, магистр информатик, занимаюсь тяжелой атлетикой.
 
-👨‍💻 Backend developer with frontend background. You can find some of my projects here on my GitHub mainly in Golang, PHP, JavasScript, React, ReactNative, Flutter/Dart with UI projects, packages & etc.
+- В данный момент работаю с Go, изредка PHP+JavaScript 
+- Также активно бзаю React.js, Next.js, Dart/Flutter и ReactNative (уже не совсем)
+- Безумное желание выучить Rust
 
 ## Languages, technologies & tools
 ![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
