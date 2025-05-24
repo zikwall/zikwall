@@ -4,9 +4,9 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=zikwall&show_icons=true&line_height=27">
 
-- Currently working with Go, изредка PHP+JavaScript 
-- I am also actively using React.js, Next.js, Dart/Flutter and ReactNative (уже не совсем)
-- There is an insane desire to learnRust
+- Currently working with Golang
+- I am also actively using React.js, Next.js, Dart/Flutter
+- There is an insane desire to learn Rust
 
 ## Languages, technologies & tools
 ![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
